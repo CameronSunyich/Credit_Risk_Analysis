@@ -32,7 +32,7 @@ Use LoanStats_2019Q1.csv for data and the credit_risk_resampling_starter_code.ip
 
     Fair Accuracy and Fair Recall, very low Precision
     
--AdaBoost Classifier
+-AdaBoost Classifier Image
 
     Good Accuracy and Good Recall, improved but still very low Precision
     
@@ -65,4 +65,6 @@ AdaBoost Classifier
 
   <img width="595" alt="AdaBoost_Imbalanced_Classification" src="https://user-images.githubusercontent.com/90425412/151738492-2a4a8ef8-c40c-49a0-9089-d4b238511bb4.png">
 
+# Summary
 
+As it can be seen from the results above all models preformed poorly when tested. Due to these results I wouldn't recommend any of these models to achieve our goal of predicting credits for users. Using these test models would lead to further issues with the company and would come at a great cost.
